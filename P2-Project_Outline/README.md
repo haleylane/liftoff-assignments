@@ -11,12 +11,12 @@ My project will be a website that will allow Gloomy Bear collectors to view a st
 
 This project was motivated by the need for Gloomy Bear collectors to have a reliable database to keep track of all Gloomy Bear items as well as their own personal collections. 
 ### Features
-*View all Gloomy Bears
-*Sort Gloomy Bears
-*User Login
-*Personal Collection
-*Submit Gloomy Bear
-*Gallery
+*View all Gloomy Bears- The Home page will display all of the Gloomy Bear items 
+*Sort Gloomy Bears- The user can sort by serial number or year
+*User Login- Use ASP.Net Authentication
+*Personal Collection- Allow collectors to store their own online record of their collection
+*Submit Gloomy Bear- Allow collectors to submit Gloomy Bear items that are not yet included or are missing information.
+*Gallery- Allow collectors to see a collection of Gloomy Bear photographs.
 ### Technologies
 C#, ASP.Net, MySQL, Bootstrap
 ### What I'll Have to Learn
