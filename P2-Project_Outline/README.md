@@ -18,7 +18,7 @@ This project was motivated by the need for Gloomy Bear collectors to have a reli
 *Submit Gloomy Bear
 *Gallery
 ### Technologies
-C#, ASP.Net, MVC, SQL, & likely Bootstrap to help appearance.
+C#, ASP.Net, MySQL, Bootstrap
 ### What I'll Have to Learn
 In order to provide users with the ability to store their own personal collections, I will need to gain more experience with Authentication. I will also need to learn more about using Bootstrap to help with the appearance of my application. 
 
