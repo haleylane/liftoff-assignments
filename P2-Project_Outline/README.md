@@ -18,7 +18,7 @@ This project was motivated by the need for Gloomy Bear collectors to have a reli
 * Submit Gloomy Bear Form- Allow collectors to submit Gloomy Bear items that are not yet included or are missing information.
 * Gallery- Allow collectors to see a collection of Gloomy Bear photographs.
 ### Technologies
-C#, ASP.Net, MySQL, Bootstrap
+C#, ASP.Net, ASP.Net Core Identity, MySQL, Bootstrap
 ### What I'll Have to Learn
 In order to provide users with the ability to store their own personal collections, I will need to gain more experience with Authentication. I will also need to learn more about using Bootstrap to help with the appearance of my application. 
 
