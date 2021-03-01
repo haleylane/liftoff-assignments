@@ -27,7 +27,7 @@ In order to provide users with the ability to store their own personal collectio
 * Learn how to deploy the application
 ### Project Tracker
 https://trello.com/b/zFnPyTZM/gloomy-project
-
+https://github.com/haleylane/GloomyCollector/tree/myWishListView
 ### User Stories
 1. As a Gloomy Bear Collector, I want a webpage displaying all bears that have been created so that I can review ones to collect.
 1. As a Gloomy Bear Collector, I want to be able to submit a form with details about Gloomy Bears that are missing from the main document to help with the process of crowd sourcing all of this info.

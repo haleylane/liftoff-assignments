@@ -18,4 +18,4 @@ https://trello.com/b/zFnPyTZM/gloomy-project
 
 ### Project Repo Link
 
-https://github.com/haleylane/GloomyCollector
+https://github.com/haleylane/GloomyCollector/tree/myWishListView
